@@ -2,6 +2,14 @@
 /dist
 /node_modules
 
+# Environment variables
+.env
+
+# Database
+*.sqlite
+*.db
+db.sqlite-journal
+
 # Logs
 logs
 *.log
